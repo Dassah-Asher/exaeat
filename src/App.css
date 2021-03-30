@@ -1,0 +1,123 @@
+body{
+  text-align: center;
+  background-color:rgb(15, 1, 15);
+ 
+
+  
+}
+
+form {
+  border: 1px solid grey;
+  display: grid;
+  padding: 50px;
+  background-color:rgb(15, 1, 15);
+ 
+
+  width: 50%;
+ 
+  margin-left: 20%;
+  border-radius: 10px;
+  color: white;
+
+
+  
+
+}
+
+form input{
+  color:steelblue;
+    text-decoration: none;
+    padding: 1rem 2rem;
+    border: 1px solid grey;
+    border-radius: 10px;
+    font-weight: bold;
+    height: 20px;
+    background-color:rgb(15, 1, 15);
+}
+
+form input:hover{
+  background-color:white
+}
+
+
+
+
+button{
+ 
+
+  font-size: 20px;
+  border: none;
+  padding: 15px 30px;
+  border-width: 40px;
+  font-size: 20px;
+  font-weight: bolder;
+  outline: none;
+  border-radius: 5px;
+  background-color:teal;
+  color:lightgray;
+ 
+  
+
+}
+
+button:hover{
+  color:blue;
+    text-decoration: none;
+    padding: 1rem 2rem;
+    border: 1px solid #3693ff;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+/*button :hover{
+  background-color: steelblue;
+  color: blue;
+  
+
+}*/
+
+
+.head{
+
+ height: 0vh;
+  font-size: 10px;
+  margin-top: 0px;
+  color:lightgrey
+ 
+}
+
+
+.ex{
+ 
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+  width: 250px;
+  border-radius: 10px;
+  border: 1px solid grey;
+  display: grid;
+  border-radius: 10px;
+  /*margin-left: 20%;*/
+ background-color:rgb(15, 1, 15);
+ 
+  margin: 0 auto;
+   text-indent: 15px;
+   color:grey;
+ 
+
+  
+}
+
+
+span{
+  color:lightgrey;
+}
+
+.records{
+  height: 5vh;
+  font-size: 10px;
+  color:lightgrey;
+}
+
+
+
